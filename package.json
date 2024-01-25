@@ -1,0 +1,11 @@
+{
+  "name": "api_hola_mundo",
+  "version": "1.0.0",
+  "description": "Api Hola Mundo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Maria Sian",
+  "license": "ISC"
+}
